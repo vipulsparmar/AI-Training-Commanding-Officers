@@ -71,12 +71,11 @@ Focus on demonstrating how AI can:
 9. Instructor Debrief
    Provide 2–3 discussion points the instructor can use to highlight the value and limitations of AI.
 
-Important Instructions:
-
-* The tone should be professional and suitable for military training.
-* Each exercise should feel realistic and operationally relevant.
-* Raw data sections should be detailed enough (1–2 pages) to simulate real staff inputs.
-* Avoid fictional science-fiction scenarios; keep the context grounded in realistic military operational environments.
-* Ensure exercises demonstrate practical AI applications useful to commanding officers.
+*   The tone should be professional and suitable for military training.
+*   **Indian Army Focus:** Use standard Indian Army terminology (e.g., GOC, CO, Adjutant, JCO, NCO, Ghatak, RR, Bde, Bn, Coy). Situations should reflect Indian operational realities (LAC, LOC, CI/CT, HADR).
+*   Each exercise should feel realistic and operationally relevant.
+*   Raw data sections should be detailed enough (1–2 pages) to simulate real staff inputs with fragmented information, radio transcripts, and multi-agency logs.
+*   Avoid fictional science-fiction scenarios; keep the context grounded in realistic military operational environments.
+*   Ensure exercises demonstrate practical AI applications useful to commanding officers.
 
 Generate 5 complete exercises using this format.
